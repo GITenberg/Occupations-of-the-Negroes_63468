@@ -1,0 +1,27 @@
+_repo: Occupations-of-the-Negroes_63468
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gannett, Henry
+    birthdate: 1846
+    deathdate: 1914
+    gutenberg_agent_id: '52462'
+    url: http://www.gutenberg.org/2009/agents/52462
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Gannett
+description: ''
+gutenberg_issued: '2020-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63468'
+  lccn: 06042728
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Trustees of the John F. Slater Fund. Occasional papers, no. 6
+subjects:
+- !lcsh 'African Americans -- Employment'
+- !lcc 'E151'
+- GITenberg
+title: Occupations of the Negroes
+url: http://www.gutenberg.org/ebooks/63468
